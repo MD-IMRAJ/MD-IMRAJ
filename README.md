@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm MD IMRAJ</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋, Hi there! I'm MD IMRAJ</h1>
+<h3 align="center">A final-year Information Technology student passionate about coding, problem-solving, and web development. I enjoy building responsive and user-friendly applications. My key skills include C, Java, JavaScript and web technologies like HTML, CSS, Tailwind CSS, and ReactJS. I'm always eager to learn new tools and frameworks and apply my knowledge to real-world projects.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
