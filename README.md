@@ -33,3 +33,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-imraj&show_icons=true&locale=en" alt="md-imraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-imraj&" alt="md-imraj" /></p>
+
+
+
+- uses: Platane/snk@v3
+  with:
+    
+    github_user_name: MD-IMRAJ
+
+   
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
