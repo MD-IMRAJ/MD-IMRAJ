@@ -84,7 +84,7 @@ Available as github action. It can automatically generate a new image each day. 
 
 [example with cron job](https://github.com/Platane/Platane/blob/master/.github/workflows/main.yml#L26-L33)
 
-If you are only interested in generating a svg, consider using this faster action: `uses: Platane/snk/svg-only@v3`
+
 
 **dark mode**
 
@@ -98,22 +98,4 @@ For **dark mode** support on github, use this [special syntax](https://docs.gith
 </picture>
 ```
 
-**interactive demo**
 
-<a href="https://platane.github.io/snk">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
-</a>
-
-[platane.github.io/snk](https://platane.github.io/snk)
-
-**local**
-
-```
-npm install
-
-npm run dev:demo
-```
-
-## Implementation
-
-[solver algorithm](./packages/solver/README.md)
