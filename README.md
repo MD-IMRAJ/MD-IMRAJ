@@ -1,76 +1,91 @@
-<h1 align="center">MD IMRAJ</h1>
-<h3 align="center">MERN Stack Developer | Java & DSA | Frontend + Backend</h3>
+<h1 align="center">Hi 👋, I'm MD IMRAJ</h1>
+<h3 align="center">Aspiring MERN Stack Developer | Building Scalable & User-Focused Web Applications</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-imraj-651205222/">LinkedIn</a> •
-  <a href="https://leetcode.com/u/md-imraj/">LeetCode</a> •
-  <a href="mailto:mdimraj0786@gmail.com">Email</a>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=md-imraj&label=Profile%20views&color=0e75b6&style=flat" alt="md-imraj" />
 </p>
 
 ---
 
-### 👋 About
-I am a **B.Tech IT (2025)** graduate and **MERN Stack Developer** with a strong foundation in  
-**Java, JavaScript, Data Structures, and Web Development**.
-
-I enjoy building scalable web applications and solving algorithmic problems for **product-based companies**.
+### 👨‍💻 About Me
+- 🎓 B.Tech in Information Technology (2025)
+- 💻 MERN Stack Developer focused on **clean code & performance**
+- 🧠 Strong foundation in **Java, JavaScript & Data Structures**
+- 🏆 Solved **250+ DSA problems on LeetCode**
+- ⭐ **5★ in C** on HackerRank
+- 🧪 Open-source contributor (**Hacktoberfest 2023**)
+- 🧑‍💼 Web Development Intern @ **Zymo**
 
 ---
 
-### 🧠 Skills
-- **Languages:** Java, JavaScript, TypeScript, C  
-- **Frontend:** React.js, HTML, CSS, Tailwind CSS, jQuery  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools:** Git, GitHub, VS Code  
+### 🔭 Currently Working On
+- 🚀 Real-world **MERN Stack applications**
+- 🎯 **Technical interview preparation**
+- 🧠 Strengthening **DSA for product-based companies**
 
 ---
 
 ### 🌱 Currently Learning
-- **TypeScript**
-- **jQuery**
+- **TypeScript** for scalable frontend development  
+- **jQuery** for better understanding of legacy codebases  
 
 ---
 
-### 💼 Experience
-**Web Development Intern — Zymo**  
-- Built responsive UI using React.js & Tailwind CSS  
-- Worked with REST APIs and frontend–backend integration  
-- Improved performance and code readability  
+### 💬 Ask Me About
+- Java & Data Structures  
+- JavaScript (ES6+)  
+- React.js & Tailwind CSS  
+- Node.js & Express.js  
 
 ---
 
-### 🏆 Achievements
-- ⭐ **5-Star in C** on HackerRank  
-- 🧠 **250+ DSA problems solved** on LeetCode  
-- 🧪 **Hacktoberfest 2023 Contributor**
+### 📫 Contact Me
+- 📧 Email: **mdimraj0786@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/md-imraj-651205222/
+- 💻 LeetCode: https://leetcode.com/u/md-imraj/
 
 ---
 
-### 📌 Featured Projects
-- **Movie Ticket Booking System (MERN)**
-  - Authentication, movie listing, seat booking, admin panel
-  - Tech: React, Node.js, Express, MongoDB, JWT
-
-> 📂 Some repositories are private. Access available on request.
+<h3 align="left">🛠 Languages & Tools</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-imraj&show_icons=true&hide_title=true" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-imraj&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-imraj" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=md-imraj&show_icons=true&locale=en" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=md-imraj&layout=compact" />
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-imraj" />
 </p>
 
 ---
 
-<p align="center">
-  <i>Focused on learning. Consistent in practice. Ready for challenges.</i>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
