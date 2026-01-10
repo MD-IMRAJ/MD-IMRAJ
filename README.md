@@ -1,12 +1,13 @@
 <h1 align="center">MD IMRAJ</h1>
+
 <h3 align="center">
-MERN Stack Developer | Java & DSA | Frontend + Backend
+MERN Stack Developer • Java & DSA • Frontend + Backend Engineer
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-success" />
-  <img src="https://img.shields.io/badge/Tech-MERN%20%7C%20Java%20%7C%20DSA-blue" />
-  <img src="https://img.shields.io/badge/Experience-Frontend%20%26%20Backend-orange" />
+  <img src="https://img.shields.io/badge/Focus-MERN%20%7C%20Product%20Engineering-blue" />
+  <img src="https://img.shields.io/badge/Strength-DSA%20%7C%20Clean%20Code-orange" />
 </p>
 
 <p align="center">
@@ -29,39 +30,53 @@ MERN Stack Developer | Java & DSA | Frontend + Backend
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-## 👨‍💻 About Me
-I am a **B.Tech (IT) 2025 graduate** and an **Aspiring MERN Stack Developer** with a strong focus on building **scalable, maintainable, and user-centric web applications**.
+## 👨‍💻 Professional Summary
+I am a **B.Tech (Information Technology, 2025)** graduate and an **Aspiring MERN Stack Developer** with a strong foundation in **Java, JavaScript, and Data Structures**.
 
-- 🎓 **B.Tech — Information Technology (2025)**
-- 💻 MERN Stack Developer (Frontend + Backend)
-- 🧠 Strong in **Java, JavaScript & Data Structures**
-- 🏆 **250+ problems solved on LeetCode**
-- ⭐ **5★ in C** on HackerRank
-- 🧪 Open-source contributor (**Hacktoberfest 2023**)
-- 🧑‍💼 Web Development Intern @ **Zymo**
+I focus on building **scalable, maintainable, and performance-driven web applications**, while continuously strengthening my **problem-solving and system thinking** for product-based engineering roles.
 
 ---
 
-## 🔭 What I’m Focused On
-- Building **production-ready MERN projects**
+## 🎓 Education
+- **B.Tech — Information Technology (2025)**
+
+---
+
+## 💼 Experience
+**Web Development Intern — Zymo**  
+- Developed responsive UI using **React.js & Tailwind CSS**  
+- Integrated frontend with backend APIs  
+- Improved code readability and performance through refactoring  
+
+---
+
+## 🧠 Core Competencies
+- **Data Structures & Algorithms** (250+ LeetCode problems solved)
+- **Frontend Engineering** (React, Tailwind, Responsive Design)
+- **Backend Development** (Node.js, Express, REST APIs)
+- **Clean Code & Maintainability**
+
+---
+
+## 🏆 Achievements
+- ⭐ **5★ in C** on HackerRank  
+- 🧠 **250+ DSA problems solved** on LeetCode  
+- 🧪 **Hacktoberfest 2023** Open-Source Contributor  
+
+---
+
+## 🔭 Current Focus
+- Building **production-grade MERN projects**
 - Preparing for **product-based company interviews**
-- Consistent **DSA practice & problem solving**
+- Strengthening **DSA & system fundamentals**
 
 ---
 
 ## 🌱 Currently Learning
-- **TypeScript** (scalable frontend development)
-- **jQuery** (working with legacy codebases)
-
----
-
-## 💬 Ask Me About
-- Java & DSA  
-- JavaScript (ES6+)  
-- React.js & Tailwind CSS  
-- Node.js, Express.js & REST APIs  
+- **TypeScript** (scalable frontend patterns)
+- **jQuery** (legacy project understanding)
 
 ---
 
@@ -72,11 +87,11 @@ I am a **B.Tech (IT) 2025 graduate** and an **Aspiring MERN Stack Developer** wi
 
 </td>
 
-<td width="42%" align="center">
+<td width="40%" align="center">
   <img
     src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"
-    width="340"
-    alt="Coding illustration"
+    width="320"
+    alt="Developer at work"
   />
 </td>
 </tr>
@@ -84,16 +99,16 @@ I am a **B.Tech (IT) 2025 graduate** and an **Aspiring MERN Stack Developer** wi
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technology Stack
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="38"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="38"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="38"/>
@@ -118,7 +133,7 @@ I am a **B.Tech (IT) 2025 graduate** and an **Aspiring MERN Stack Developer** wi
 ---
 
 <p align="center">
-  <i>Consistency beats intensity. Learning daily. Building for the long term.</i>
+  <i>Engineering mindset. Consistent growth. Long-term impact.</i>
 </p>
 
 <picture>
